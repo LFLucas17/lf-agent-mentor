@@ -1,0 +1,10 @@
+{
+  "name": "lf-agent-mentor",
+  "version": "1.0.0",
+  "display_name": "LF Agent Mentor",
+  "description": "Plugin da LF Soft para guiar usuários na criação de agentes Claude. Diagnostica o contexto do usuário, ensina o ecossistema (skills, plugins, projetos, Cowork) e executa o processo de criação de forma guiada e estratégica.",
+  "author": "Lucas Augusto — LF Soft Soluções (lfsoftsolucoes.com.br)",
+  "skills": [
+    "skills/agent-mentor/SKILL.md"
+  ]
+}
