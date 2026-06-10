@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lf-agent-mentor",
+  "description": "Marketplace da LF Soft — plugins para mentoria estratégica na criação de agentes Claude",
+  "owner": {
+    "name": "Lucas Augusto — LF Soft Soluções",
+    "email": "contato@lfsoftsolucoes.com.br",
+    "url": "https://lfsoftsolucoes.com.br"
+  },
+  "plugins": [
+    {
+      "name": "lf-agent-mentor",
+      "description": "Plugin da LF Soft para guiar usuários na criação de agentes Claude. Diagnostica o contexto do usuário, ensina o ecossistema (skills, plugins, projetos, Cowork) e executa o processo de criação de forma guiada e estratégica.",
+      "category": "productivity",
+      "source": "."
+    }
+  ]
+}
